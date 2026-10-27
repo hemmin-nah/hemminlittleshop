@@ -1,17 +1,119 @@
 {
-  "siteName": "little digital things",
+  "siteName": "hemmin little shop",
   "aboutName": "hemminwin",
-  "aboutBio": {"es": "Hola, soy una diseñadora que disfruta creando pequeñas aplicaciones, herramientas, juegos y experimentos digitales. Este es mi rincón para reunirlos todos. Bienvenida ♡", "en": "Hi, I'm a designer who loves making little apps, tools, games and digital experiments. This is my little corner to keep them together. Welcome ♡"},
+  "aboutBio": {
+    "es": "Hola, soy una diseñadora que disfruta creando pequeñas aplicaciones, herramientas, juegos y experimentos digitales con IA. Este es mi rincón para reunirlos todos. Bienvenida ♡",
+    "en": "Hi, I'm a designer who loves making little apps, tools, games and digital experiments with AI. This is my little corner to keep them together. Welcome ♡"
+  },
   "aboutImage": "",
-  "socials": [{"label":"Ko-fi","url":"https://ko-fi.com/"},{"label":"GitHub","url":"https://github.com/"}],
+  "socials": [
+    {
+      "label": "Ko-fi",
+      "url": "https://ko-fi.com/na_nah"
+    },
+    {
+      "label": "GitHub",
+      "url": "https://github.com/hemmin-nah"
+    }
+  ],
   "sections": [
-    {"id":"games","name":{"es":"Juegos PWA","en":"PWA Games"},"description":{"es":"Para jugar un ratito","en":"For a little playtime"},"emoji":"✦","image":"","color":"lavender"},
-    {"id":"relax","name":{"es":"Relax PWA","en":"Relax PWAs"},"description":{"es":"Un respiro digital","en":"A little digital breather"},"emoji":"☾","image":"","color":"rose"},
-    {"id":"extensions","name":{"es":"Extensiones ChatGPT","en":"ChatGPT Extensions"},"description":{"es":"Atajos y pequeñas ayudas","en":"Shortcuts & little helpers"},"emoji":"✳","image":"","color":"sage"},
-    {"id":"macros","name":{"es":"Macros CorelDRAW","en":"CorelDRAW Macros"},"description":{"es":"Magia para el trabajo","en":"A little workday magic"},"emoji":"⌘","image":"","color":"peach"}
+    {
+      "id": "games",
+      "name": {
+        "es": "Juegos PWA",
+        "en": "PWA Games"
+      },
+      "description": {
+        "es": "Para jugar un ratito",
+        "en": "For a little playtime"
+      },
+      "emoji": "✦",
+      "image": "",
+      "color": "peach"
+    },
+    {
+      "id": "relax",
+      "name": {
+        "es": "Relax PWA",
+        "en": "Relax PWAs"
+      },
+      "description": {
+        "es": "Un respiro digital",
+        "en": "A little digital breather"
+      },
+      "emoji": "☾",
+      "image": "",
+      "color": "rose"
+    },
+    {
+      "id": "extensions",
+      "name": {
+        "es": "Extensiones ChatGPT",
+        "en": "ChatGPT Extensions"
+      },
+      "description": {
+        "es": "Atajos y pequeñas ayudas",
+        "en": "Shortcuts & little helpers"
+      },
+      "emoji": "✳",
+      "image": "",
+      "color": "sage"
+    },
+    {
+      "id": "macros",
+      "name": {
+        "es": "Macros CorelDRAW",
+        "en": "CorelDRAW Macros"
+      },
+      "description": {
+        "es": "Magia para el trabajo",
+        "en": "A little workday magic"
+      },
+      "emoji": "⌘",
+      "image": "",
+      "color": "peach"
+    }
   ],
   "products": [
-    {"id":"sample-game","sectionId":"games","name":{"es":"Mi primer juego","en":"My first game"},"description":{"es":"Aquí irá tu juego con su enlace real.","en":"Your game and its real link will go here."},"image":"","emoji":"🎮","url":"","kind":"open","tag":{"es":"Próximamente","en":"Coming soon"}},
-    {"id":"sample-relax","sectionId":"relax","name":{"es":"Mi rincón tranquilo","en":"My quiet corner"},"description":{"es":"Sustituye esta ficha por tu PWA.","en":"Replace this card with your PWA."},"image":"","emoji":"☁","url":"","kind":"open","tag":{"es":"Ejemplo","en":"Example"}}
+    {
+      "id": "sample-game",
+      "sectionId": "games",
+      "name": {
+        "es": "Mi primer juego",
+        "en": "My first game"
+      },
+      "description": {
+        "es": "Aquí irá tu juego con su enlace real.",
+        "en": "Your game and its real link will go here."
+      },
+      "image": "",
+      "emoji": "🎮",
+      "url": "",
+      "kind": "open",
+      "tag": {
+        "es": "Próximamente",
+        "en": "Coming soon"
+      }
+    },
+    {
+      "id": "sample-relax",
+      "sectionId": "relax",
+      "name": {
+        "es": "Mi rincón tranquilo",
+        "en": "My quiet corner"
+      },
+      "description": {
+        "es": "Sustituye esta ficha por tu PWA.",
+        "en": "Replace this card with your PWA."
+      },
+      "image": "",
+      "emoji": "☁",
+      "url": "",
+      "kind": "open",
+      "tag": {
+        "es": "Ejemplo",
+        "en": "Example"
+      }
+    }
   ]
 }
